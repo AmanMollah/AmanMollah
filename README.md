@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-**`Fullstack Software Developer`** &nbsp;·&nbsp; **`Builder of things that work`** &nbsp;·&nbsp; **`100+ projects shipped`**
+**`Fullstack Software Developer`** &nbsp;·&nbsp; **`100+ projects shipped`**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-mollah-88050a279)
 [![Email](https://img.shields.io/badge/-work.amanmollah%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:work.amanmollah@gmail.com)
@@ -29,9 +29,8 @@
 │  Status   →  Open to new projects ✦                         │
 └─────────────────────────────────────────────────────────────┘
 
-  From solo founders to large companies. I've shipped at
-  every scale. The details are what separate good software
-  from great.
+  From a one-person idea to a company-wide system, I've
+  shipped at every scale. Good software lives in the details.
 ```
 
 ---
@@ -91,11 +90,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanMollah&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanMollah&theme=github-dark)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=AmanMollah&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMollah&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
