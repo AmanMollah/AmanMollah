@@ -11,7 +11,7 @@
 
 **`Fullstack Software Developer`** &nbsp;·&nbsp; **`100+ projects shipped`**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-mollah-88050a279)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-mollah)
 [![Email](https://img.shields.io/badge/-work.amanmollah%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:work.amanmollah@gmail.com)
 [![Discord](https://img.shields.io/badge/-amanmollah-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/amanmollah)
 [![PayPal](https://img.shields.io/badge/-Support%20my%20work-003087?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/AmanMollah)
